@@ -11,7 +11,7 @@
 
 Contact: zheda.mai@mail.utoronto.ca
 
-
+Final Ranking: https://sites.google.com/view/clvision2020/challenge/challenge-winners
 
 ## Introduction
 
