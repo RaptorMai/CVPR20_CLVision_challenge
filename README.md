@@ -1,6 +1,6 @@
 <p align="center">
 <a href="https://www.utoronto.ca/"><img src="https://camh.echoontario.ca/wp-content/uploads/2019/08/UofT-Logo.png" width="200" height="100"></a>
-<a href="http://www.lgcorp.com/innovation/sciencepark/introduce"><img src="logo/lgsp.png" width="180" height="60"></a>
+<a href="http://www.lgcorp.com/innovation/sciencepark/introduce"><img src="logo/lgsp.png" width="200" height="100"></a>
 </p>
 
 
@@ -24,7 +24,7 @@ The challenge will be based on the CORe50 dataset and composed of three tracks:
 - **Multi-Task New Classes (Multi-Task-NC)\***: In this setting the 50 different classes are split into 9 different tasks: 10 classes in the first batch and 5 classes in the other 8. *In this case the task label will be provided during training and test*.
 - **New Instances and Classes (NIC)**: this protocol is composed of 391 training batches containing 300 images of a single class. No task label will be provided and each batch may contain images of a class seen before as well as a completely new class.
 
-##### Metrics
+#### Metrics
 
 Each solution will be evaluated across a number of metrics:
 
@@ -38,7 +38,7 @@ Each solution will be evaluated across a number of metrics:
 
 
 
-##### Approach
+#### Approach
 
 Our approach is based on Experience Replay, a memory-based continual learning method that has been proved effective in various continual learning problems. The details of the approach can be found in our [paper](CVPR2020_CLVision_challenge.pdf). 
 
