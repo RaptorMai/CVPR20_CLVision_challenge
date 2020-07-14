@@ -11,7 +11,9 @@
 
 Contact: zheda.mai@mail.utoronto.ca
 
-Final Ranking: https://sites.google.com/view/clvision2020/challenge/challenge-winners
+Final Ranking: https://sites.google.com/view/clvision2020/challenge/challenge-winners  
+
+Paper: http://arxiv.org/abs/2007.05683
 
 ## Introduction
 
@@ -40,7 +42,7 @@ Each solution will be evaluated across a number of metrics:
 
 #### Approach
 
-Our approach is based on Experience Replay, a memory-based continual learning method that has been proved effective in various continual learning problems. The details of the approach can be found in our [paper](CVPR2020_CLVision_challenge.pdf). 
+Our approach is based on Experience Replay, a memory-based continual learning method that has been proved effective in various continual learning problems. The details of the approach can be found in our [paper](http://arxiv.org/abs/2007.05683). 
 
 
 
